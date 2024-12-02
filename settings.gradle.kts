@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "JalaliDateTimePicker"
 include(":app")
- 
+include(":jalalidatepicker")
